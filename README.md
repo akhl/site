@@ -1,2 +1,2 @@
 # site
-simple site
+Simple site

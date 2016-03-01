@@ -1,11 +1,11 @@
 {
-  "name": "akhl",
-  "homepage": "https://github.com/akhl/site",
+  "name": "site",
+  "homepage": "https://github.com/jankosacc/site",
   "authors": [
-    "akhl <akhilmadavana@gmail.com>"
+    "jankos <janis.koselevs@gmail.com>"
   ],
-  "description": "site",
-  "main": "file 1",
+  "description": "",
+  "main": "index.html",
   "moduleType": [],
   "license": "MIT",
   "private": true,
@@ -18,6 +18,8 @@
   ],
   "dependencies": {
     "bootstrap": "^3.3.6",
+    "requirejs": "^2.1.22",
+    "backbone": "^1.2.3",
     "mustache.js": "mustache#^2.2.1",
     "normalize-css": "normalize.css#^3.0.3",
     "text": "requirejs-text#^2.0.14"
